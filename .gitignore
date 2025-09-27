@@ -1,0 +1,5 @@
+__pycache__/
+notes.txt
+*.mp3
+*.wav
+test.ipynb
