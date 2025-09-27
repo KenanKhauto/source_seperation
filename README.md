@@ -50,11 +50,9 @@ The full training pipeline is implemented, including:
    ```bash
    git clone https://github.com/KenanKhauto/source_seperation.git
    cd source_seperation
-
-   To start training run python **"script.py"**
-   If you want to edit and change training logic you can do that in **"script.py"**
-
 ---
+   To start training run python **"script.py"**.
+   If you want to edit and change training logic you can do that in **"script.py"**.
 
 ## Licence
 This project is open-sourced under the MIT license.
